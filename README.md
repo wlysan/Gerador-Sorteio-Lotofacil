@@ -12,8 +12,8 @@ Ele pode ser adaptado tanto para gerar uma lista de jogos, tanto quanto para sim
 
 1. Clone o repositório:
     ```bash
-    git clone https://github.com/seu-usuario/seu-repositorio.git
-    cd seu-repositorio
+    git clone (https://github.com/wlysan/Gerador-Sorteio-Lotofacil.git)
+    cd Gerador-Sorteio-Lotofacil
     ```
 
 2. Crie um arquivo `historico_sorteios.txt` na raiz do projeto com o histórico de sorteios.
